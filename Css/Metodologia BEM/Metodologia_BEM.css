@@ -1,0 +1,24 @@
+.BEM__h2
+{
+	color:orange;
+}
+
+.BEM2__h2-p
+{
+	color:green;
+}
+
+.BEM3__h2--active
+{
+	color:blue
+}
+
+.BEM3__h2--active1
+{
+	color:red;
+}
+
+.BEM3__h2
+{
+	color:purple;
+}

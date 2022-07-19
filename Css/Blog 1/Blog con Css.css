@@ -1,0 +1,39 @@
+.header
+{
+	font-size:25px;
+	font-family:cursive;
+	color:red;
+}
+
+.sections__h2
+{
+	font-family:cursive;
+	color:purple;
+	font-size:25px;
+}
+
+.sections__p
+{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight:1000;
+	font-size:17px;
+}
+
+.sections__p2
+{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight:500;
+	font-size:17px;
+}
+
+.footer
+{
+	font-family: 'IBM Plex Sans', sans-serif;
+	color:black;
+	font-weight:300;
+}
+
+.footer__p
+{
+	display:inline;
+}

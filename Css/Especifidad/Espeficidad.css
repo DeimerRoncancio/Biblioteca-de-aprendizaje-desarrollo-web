@@ -1,0 +1,68 @@
+/* La jerarquia entre objetos del mismo tipo se rige de el metodo cascada. */
+
+/* Abajo en la jerarquia estan los elementos: */
+h1
+{
+	color:blue;
+}
+
+/* Luego los atributos: */
+[Atributo="Atributo"]
+{
+	color:gray;
+}
+
+h2
+{
+	color:red;
+}
+
+/* Sigue por pseudo-clase: */
+h3 p:hover
+{
+	color:green;
+}
+
+h3
+{
+	color:red;
+}
+
+/* Por clase: */
+.Clase
+{
+	color:yellow;
+}
+
+h4
+{
+	color:red;
+}
+
+/* Por idenficadores */
+#Identificador
+{
+	color:violet;
+}
+
+h5
+{
+	color:red;
+}
+
+/* Por estilo en linea */
+h6
+{
+	color:red;
+}
+
+/* Y por ultimo, en la parte mas alta de la jerarquia: !important */
+b
+{
+	color:purple !important;
+}
+
+b
+{
+	color:red;
+}

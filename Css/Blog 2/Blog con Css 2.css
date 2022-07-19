@@ -1,0 +1,55 @@
+.title
+{
+	background-color:#F7DC6F;
+	margin:0;
+	padding:3em;
+	text-align:center;
+	font-family: 'Shizuru', cursive;
+}
+
+.sections
+{
+	background-color:#FCF3CF;
+}
+
+.sections__section1
+{
+	border:5px dashed red;
+}
+
+.sections__section2
+{
+	border:5px dashed blue;
+}
+
+.sections__section3
+{
+	border:5px dashed green;
+}
+
+h2
+{
+	font-family: 'Yuji Hentaigana Akebono', cursive;
+	text-align:center;
+	padding:2em;
+}
+
+p
+{
+	padding:5em;
+	text-align:center;
+	font-family: 'Hind Siliguri', sans-serif;
+}
+
+img
+{
+	display:block;
+	margin:auto;
+}
+
+footer
+{
+	background-color:#000;
+	color:#fff;
+	text-shadow:2px 2px 3px #fff;
+}

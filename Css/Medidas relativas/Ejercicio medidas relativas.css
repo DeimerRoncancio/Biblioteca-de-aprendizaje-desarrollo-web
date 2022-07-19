@@ -1,0 +1,29 @@
+*
+{
+	margin:0px;
+	padding:0px;
+}
+
+.Amarillo
+{
+	background-color:yellow;
+	height:50vh;
+	font-size:30px;
+}
+
+.Amarillo__ConNombre
+{
+	font-size:1em;
+}
+
+.Azul
+{
+	background-color:blue;
+	height:25vh;
+}
+
+.Rojo
+{
+	background-color:red;
+	height:25vh;
+}

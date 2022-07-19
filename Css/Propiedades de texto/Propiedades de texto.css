@@ -1,0 +1,17 @@
+.propiedades
+{
+	/* font-size: cambia el tamaño del texto.*/
+	font-size:50px;
+
+	/* color: modifica el color. */
+	color:red;
+
+	/* font-family: cambia la fuente de la letra. Tambien se puede exportar fuentes externas. */
+	font-family: 'Luxurious Script', cursive;
+
+	/* line-height: con este se puede ampliar el espacio vertical que ocupa el elemento de letra. */
+	line-height:1;
+
+	/* font-weight: modifica el grosor de las letras. */
+	font-weight:700;
+}

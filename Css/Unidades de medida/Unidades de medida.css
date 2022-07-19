@@ -1,0 +1,56 @@
+/* Medidas fijas */
+/* Este tipo de medidas no se pueden modificar y vienen por defecto. */
+
+/* Pixeles: */
+.unidades
+{
+	font-size:15px;
+}
+
+/* Centimetros: */
+.unidades-2
+{
+	font-size:0,9cm;
+}
+
+/* Milimetros: */
+.unidades-3
+{
+	font-size:4mm;
+}
+
+/* Puntos: */
+.unidades-4
+{
+	font-size:10pt;
+}
+
+/* Medidas relativas */
+/* Son tipos de medidas que depeneden de valores editables. */
+
+/* em */
+.unidades-5
+{
+	font-size:20px;
+}
+
+.unidades-5__h2
+{
+	font-size:1em;
+}
+
+/* vw y vh*/
+
+.h2
+{
+	font-size:20px;
+}
+
+.unidades-6
+{
+	padding:0px;
+	margin:0px;
+	background-color:#000;
+	width:50vw;
+	height:50vh;
+}

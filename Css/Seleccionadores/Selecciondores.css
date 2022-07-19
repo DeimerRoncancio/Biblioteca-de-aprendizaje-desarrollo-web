@@ -1,0 +1,35 @@
+/*
+*
+{
+    color: aqua; Seleccionador universal
+}*/
+
+h1
+{
+    color: purple; /*Seleccionador por tipo*/
+}
+
+#titulo-4
+{
+    color: red; /*Seleccionador por id*/
+}
+
+.titulo-5
+{
+    color: blue; /*Seleccionador por clase*/
+}
+
+[quiuboleB="titulo-6"]
+{
+    color: green; /*Seleccionador por atributo*/
+}
+
+h3 p
+{
+    color: brown; /*Seleccionador descendiente*/
+}
+
+b:hover
+{
+    color:yellow; /*Seleccionador por pseudoclase*/
+}

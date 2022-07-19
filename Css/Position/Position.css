@@ -1,0 +1,20 @@
+.caja-padre
+{
+	width:500px;
+	height:500px;
+	background-color:red;
+	position:relative;
+	top:50;
+	left:50;
+}
+
+.caja-hija
+{
+	width:200px;
+	height:200px;
+	background:yellow;
+	position:relative;
+	top:-20;
+	left:-20;
+	z-index:-1;
+}
