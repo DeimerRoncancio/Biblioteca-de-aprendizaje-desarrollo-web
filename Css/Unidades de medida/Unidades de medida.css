@@ -26,7 +26,9 @@
 }
 
 /* Medidas relativas */
-/* Son tipos de medidas que depeneden de valores editables. */
+/* Son tipos de medidas que depeneden de otros valores. Se usan para que la pagina se adapte a los 
+diferentes dispositivos, los cuales tienen sus propias medidas, de las cuales dependen las medidas
+relativas*/
 
 /* em */
 .unidades-5
